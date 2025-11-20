@@ -1,4 +1,4 @@
-# NakshatraAI – Vedic Astrology Chatbot using DeepSeek-R1 + LangChain
+# NakshatraAI - Vedic Astrology Chatbot using DeepSeek-R1 + LangChain
 
 **NakshatraAI** is a command-line Vedic astrology assistant built using **DeepSeek-R1** through the HuggingFace Inference API and **LangChain**.
 It provides professional-style astrological responses based on classical Jyotish principles while hiding internal reasoning and calculations.
